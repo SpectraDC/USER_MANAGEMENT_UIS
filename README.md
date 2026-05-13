@@ -1,8 +1,4 @@
-# User Management Screen – UI Spec
 
-This doc covers the user management page. The goal is to give developers enough detail to build it without having to guess at anything. I've tried to walk through every component and every state I could think of — let me know if something's missing.
-
----
 
 ## What the page looks like
 
